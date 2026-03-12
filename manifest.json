@@ -1,0 +1,10 @@
+{
+  "models": [
+    {
+      "id": "trazo_v1",
+      "downloadURL": "https://huggingface.co/trazo-app/trazo-v1/resolve/main/trazo_v1.mlmodelc.zip",
+      "version": "1.0.0",
+      "fileSizeMB": 1841
+    }
+  ]
+}
