@@ -1,10 +1,22 @@
 {
   "models": [
     {
-      "id": "trazo_v1",
-      "downloadURL": "https://huggingface.co/IgorGal/trazo-v1/resolve/main/trazo_v1.mlmodelc.zip",
+      "id": "animagine_xl_4",
+      "downloadURL": "https://huggingface.co/IgorGal/trazo-models/resolve/main/animagine_xl_4.zip",
       "version": "1.0.0",
-      "fileSizeMB": 1841
+      "fileSizeMB": 2400
+    },
+    {
+      "id": "realvis_xl_5",
+      "downloadURL": "https://huggingface.co/IgorGal/trazo-models/resolve/main/realvis_xl_5.zip",
+      "version": "1.0.0",
+      "fileSizeMB": 2400
+    },
+    {
+      "id": "realcartoon_xl_6",
+      "downloadURL": "https://huggingface.co/IgorGal/trazo-models/resolve/main/realcartoon_xl_6.zip",
+      "version": "1.0.0",
+      "fileSizeMB": 2400
     }
   ]
 }
