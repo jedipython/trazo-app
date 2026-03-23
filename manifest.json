@@ -17,6 +17,12 @@
       "downloadURL": "https://huggingface.co/IgorGal/trazo-models/resolve/main/realcartoon_xl_6.zip",
       "version": "1.0.0",
       "fileSizeMB": 2400
+    },
+    {
+      "id": "realvis_xl_5_1024",
+      "downloadURL": "https://huggingface.co/IgorGal/trazo-models/resolve/main/realvis_xl_5_pro.zip",
+      "version": "1.0.0",
+      "fileSizeMB": 2500
     }
   ]
 }
